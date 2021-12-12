@@ -8,8 +8,11 @@ export default function Success (){
         <div className="box">
         <p className="font">PARABÉNS!</p>
         <img src={party} alt= "emoji comemorando"/>
+        </div>
+        <div className="phrase">
         <p className="lettering">Você não esqueceu de nenhum flashcard!</p>
         </div>
+        
         </>
     );
   
